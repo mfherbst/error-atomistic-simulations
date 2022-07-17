@@ -1,6 +1,6 @@
 # Best practices of error control
 
-* Are any error bars good (even if they are not neccessarily meaningful) ?
+* Are any error bars good (even if they are not necessarily meaningful) ?
     * Yes to impose cultural change?
 * How to impose cultural change that error bars should be included ?
     * Emphasise need for error analysis in reviewing activity

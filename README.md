@@ -1,7 +1,7 @@
 # Errors in first-principle atomistic simulations
 
-This repository attempts to establish a common language and some community guidelines
-about discussing and tracking error contributions in first-principle atomistic simulations.
+This repository attempts to establish a common language and community guidelines
+about discussing and tracking errors in first-principle atomistic simulations.
 Particular emphasis is the simulation pipeline from a DFT-based data generation,
 to the fitting of interatomic potentials and onwards employing the resulting potentials
 in molecular-dynamics simulations leading to a theoretical description of dynamic properties.
